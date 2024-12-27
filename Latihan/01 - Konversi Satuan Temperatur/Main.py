@@ -47,3 +47,5 @@ print("Suhu = ", kelvin, "Kelvin")
 print("Suhu dalam Celcius = ", celcius)
 print("Suhu dalam Fahrenheit = ", fahrenheit)
 print("Suhu dalam Reamur = ", reamur)
+
+print("Terima Kasih")
